@@ -1,0 +1,10 @@
+dist
+.tmp
+node_modules
+
+2015-09-28_huts_cache
+2015-09-28_huts_files
+2015-09-28_huts.html
+.Rhistory
+
+*.swp
