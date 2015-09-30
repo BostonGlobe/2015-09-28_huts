@@ -11,7 +11,7 @@
 			//========================================
 			// Insert path to jpt between quotes below
 			//========================================
-			var path = ''; 
+			var path = '/Boston/Content/Metro/WebGraphics/2015/09/hut/hut.jpt'; 
 
 
 			var test1 = '.jpt';
